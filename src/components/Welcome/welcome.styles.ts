@@ -1,9 +1,12 @@
-import { makeStyles } from "@fluentui/react-make-styles";
+import { makeStyles } from "@fluentui/react-components";
 import { WelcomeState } from "./welcome.types";
 
 const useClasses = makeStyles({
   root: {
-    padding: "0"
+    paddingTop: "0",
+    paddingRight: "0",
+    paddingBottom: "0",
+    paddingLeft: "0"
   }
 });
 
@@ -13,4 +16,6 @@ export const useWelcomeStyles = (state: WelcomeState): WelcomeState => {
   if (state.root) {
     state.root.className = classes.root;
   }
+
+  return state;
 };

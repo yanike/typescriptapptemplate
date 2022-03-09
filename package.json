@@ -5,10 +5,10 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
-    "@fluentui/react-make-styles": "9.0.0-beta.4",
+    "@fluentui/react": "8.60.1",
+    "@fluentui/react-components": "9.0.0-rc.6",
     "@fluentui/react-utilities": "9.0.0-rc.5",
     "@fluentui/theme": "2.5.0",
-    "fluent-ui": "0.1.0",
     "prettier": "2.5.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
