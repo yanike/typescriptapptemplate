@@ -8,7 +8,6 @@
     "@fluentui/react": "8.61.0",
     "@fluentui/react-components": "9.0.0-rc.6",
     "@fluentui/react-utilities": "9.0.0-rc.5",
-    "@fluentui/theme": "2.5.0",
     "prettier": "2.5.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
@@ -26,5 +25,10 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
