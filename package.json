@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
-    "@fluentui/react": "8.60.1",
+    "@fluentui/react": "8.61.0",
     "@fluentui/react-components": "9.0.0-rc.6",
     "@fluentui/react-utilities": "9.0.0-rc.5",
     "@fluentui/theme": "2.5.0",
